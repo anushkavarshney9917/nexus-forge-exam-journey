@@ -1,0 +1,387 @@
+[
+  {
+    "id": "1",
+    "journeyId": "1",
+    "question": "Which pattern best describes the relationship between the observer and the observed?",
+    "options": [
+      { "id": "a", "text": "They are distinct and separate entities." },
+      { "id": "b", "text": "They mutually influence one another." },
+      { "id": "c", "text": "The observer creates the observed." },
+      { "id": "d", "text": "The observed exists independently." }
+    ]
+  },
+  {
+    "id": "2",
+    "journeyId": "1",
+    "question": "Identify the logical fallacy: 'The ascent is steep, therefore it must be the wrong path.'",
+    "options": [
+      { "id": "a", "text": "Ad Hominem" },
+      { "id": "b", "text": "Non Sequitur" },
+      { "id": "c", "text": "Appeal to Nature" },
+      { "id": "d", "text": "False Equivalence" }
+    ]
+  },
+  {
+    "id": "3",
+    "journeyId": "1",
+    "question": "If all mountains are high, and some high places are dangerous, which conclusion follows?",
+    "options": [
+      { "id": "a", "text": "All mountains are dangerous." },
+      { "id": "b", "text": "Some mountains might be dangerous." },
+      { "id": "c", "text": "No mountains are dangerous." },
+      { "id": "d", "text": "All dangerous places are mountains." }
+    ]
+  },
+  {
+    "id": "4",
+    "journeyId": "1",
+    "question": "Select the term that best completes the analogy: Compass is to Direction as Logic is to...",
+    "options": [
+      { "id": "a", "text": "Emotion" },
+      { "id": "b", "text": "Truth" },
+      { "id": "c", "text": "Reasoning" },
+      { "id": "d", "text": "Argument" }
+    ]
+  },
+  {
+    "id": "5",
+    "journeyId": "1",
+    "question": "In the context of a journey, what does a 'waypoint' represent?",
+    "options": [
+      { "id": "a", "text": "The final destination" },
+      { "id": "b", "text": "A confirmed intermediate position" },
+      { "id": "c", "text": "A missed opportunity" },
+      { "id": "d", "text": "The starting line" }
+    ]
+  },
+  {
+    "id": "6",
+    "journeyId": "1",
+    "question": "Which cognitive bias tends to make us favor information that confirms our pre-existing beliefs?",
+    "options": [
+      { "id": "a", "text": "Confirmation Bias" },
+      { "id": "b", "text": "Recency Bias" },
+      { "id": "c", "text": "Sunk Cost Fallacy" },
+      { "id": "d", "text": "Dunning-Kruger Effect" }
+    ]
+  },
+  {
+    "id": "7",
+    "journeyId": "1",
+    "question": "Analyze the sequence: 2, 6, 12, 20, 30. What comes next?",
+    "options": [
+      { "id": "a", "text": "36" },
+      { "id": "b", "text": "40" },
+      { "id": "c", "text": "42" },
+      { "id": "d", "text": "48" }
+    ]
+  },
+  {
+    "id": "8",
+    "journeyId": "1",
+    "question": "Which of these is NOT a primary component of a sound argument?",
+    "options": [
+      { "id": "a", "text": "Premise" },
+      { "id": "b", "text": "Conclusion" },
+      { "id": "c", "text": "Volume" },
+      { "id": "d", "text": "Inference" }
+    ]
+  },
+  {
+    "id": "9",
+    "journeyId": "1",
+    "question": "What is the primary purpose of Occam's Razor?",
+    "options": [
+      { "id": "a", "text": "To cut through physical obstacles" },
+      { "id": "b", "text": "To select the simplest explanation" },
+      { "id": "c", "text": "To multiply entities unnecessarily" },
+      { "id": "d", "text": "To shave intricate patterns" }
+    ]
+  },
+  {
+    "id": "10",
+    "journeyId": "1",
+    "question": "You have reached the first major milestone. What is the most logical next step?",
+    "options": [
+      { "id": "a", "text": "Turn back immediately" },
+      { "id": "b", "text": "Assess connection and proceed" },
+      { "id": "c", "text": "Assume the path is finished" },
+      { "id": "d", "text": "Panic" }
+    ]
+  },
+  {
+    "id": "11",
+    "journeyId": "1",
+    "question": "Abstractly, if A implies B, and B is false, what can be said of A?",
+    "options": [
+      { "id": "a", "text": "A is true" },
+      { "id": "b", "text": "A is false" },
+      { "id": "c", "text": "A is unrelated" },
+      { "id": "d", "text": "A is ambitious" }
+    ]
+  },
+  {
+    "id": "12",
+    "journeyId": "1",
+    "question": "Which element is crucial for navigating unknown theoretical terrain?",
+    "options": [
+      { "id": "a", "text": "Rigid dogma" },
+      { "id": "b", "text": "First principles thinking" },
+      { "id": "c", "text": "Memorization" },
+      { "id": "d", "text": "Speed" }
+    ]
+  },
+  {
+    "id": "13",
+    "journeyId": "1",
+    "question": "The 'Straw Man' fallacy involves:",
+    "options": [
+      { "id": "a", "text": "Building a scarecrow" },
+      { "id": "b", "text": "Misrepresenting an argument to attack it" },
+      { "id": "c", "text": "Using ad hominem attacks" },
+      { "id": "d", "text": "Circular reasoning" }
+    ]
+  },
+  {
+    "id": "14",
+    "journeyId": "1",
+    "question": "In a deductive argument, if the premises are true, the conclusion must be:",
+    "options": [
+      { "id": "a", "text": "Probable" },
+      { "id": "b", "text": "Possible" },
+      { "id": "c", "text": "Certain" },
+      { "id": "d", "text": "Debatable" }
+    ]
+  },
+  {
+    "id": "15",
+    "journeyId": "1",
+    "question": "Final Check: Logic suggests that to reach the summit, one must:",
+    "options": [
+      { "id": "a", "text": "Teleport" },
+      { "id": "b", "text": "Complete the ascent" },
+      { "id": "c", "text": "Stay at base camp" },
+      { "id": "d", "text": "Ignore the path" }
+    ]
+  },
+  {
+    "id": "201",
+    "journeyId": "2",
+    "question": "If a square becomes a cube, what does a triangle become?",
+    "options": [
+      { "id": "a", "text": "A Sphere" },
+      { "id": "b", "text": "A Tetrahedron" },
+      { "id": "c", "text": "A Circle" },
+      { "id": "d", "text": "A Hexagon" }
+    ]
+  },
+  {
+    "id": "202",
+    "journeyId": "2",
+    "question": "Which shape creates a tessellation without gaps?",
+    "options": [
+      { "id": "a", "text": "Pentagon" },
+      { "id": "b", "text": "Hexagon" },
+      { "id": "c", "text": "Octagon" },
+      { "id": "d", "text": "Circle" }
+    ]
+  },
+  {
+    "id": "203",
+    "journeyId": "2",
+    "question": "In a recursive fractal pattern, the whole is:",
+    "options": [
+      { "id": "a", "text": "Unrelated to the parts" },
+      { "id": "b", "text": "Self-similar to the parts" },
+      { "id": "c", "text": "Smaller than the parts" },
+      { "id": "d", "text": "Invisible" }
+    ]
+  },
+  {
+    "id": "204",
+    "journeyId": "2",
+    "question": "Identify the next shape in the sequence: Triangle (3), Square (4), Pentagon (5)...",
+    "options": [
+      { "id": "a", "text": "Heptagon" },
+      { "id": "b", "text": "Hexagon" },
+      { "id": "c", "text": "Octagon" },
+      { "id": "d", "text": "Decagon" }
+    ]
+  },
+  {
+    "id": "205",
+    "journeyId": "2",
+    "question": "Symmetry that reflects across a central axis is called:",
+    "options": [
+      { "id": "a", "text": "Radial Symmetry" },
+      { "id": "b", "text": "Bilateral Symmetry" },
+      { "id": "c", "text": "Fractal Symmetry" },
+      { "id": "d", "text": "Translational Symmetry" }
+    ]
+  },
+  {
+    "id": "206",
+    "journeyId": "2",
+    "question": "In visual perception, 'negative space' refers to:",
+    "options": [
+      { "id": "a", "text": "The dark areas only" },
+      { "id": "b", "text": "The space around and between the subject" },
+      { "id": "c", "text": "A logical fallacy" },
+      { "id": "d", "text": "An error in the image" }
+    ]
+  },
+  {
+    "id": "207",
+    "journeyId": "2",
+    "question": "A Mobius strip is unique because it has:",
+    "options": [
+      { "id": "a", "text": "Two sides and two edges" },
+      { "id": "b", "text": "One side and two edges" },
+      { "id": "c", "text": "One side and one edge" },
+      { "id": "d", "text": "No edges" }
+    ]
+  },
+  {
+    "id": "208",
+    "journeyId": "2",
+    "question": "Which concept describes the golden ratio?",
+    "options": [
+      { "id": "a", "text": "A perfect circle" },
+      { "id": "b", "text": "Approximately 1.618" },
+      { "id": "c", "text": "Pi (3.14)" },
+      { "id": "d", "text": "Pythagoras Theorem" }
+    ]
+  },
+  {
+    "id": "209",
+    "journeyId": "2",
+    "question": "If you rotate a 'p' 180 degrees, it typically looks like a:",
+    "options": [
+      { "id": "a", "text": "b" },
+      { "id": "b", "text": "d" },
+      { "id": "c", "text": "q" },
+      { "id": "d", "text": "p" }
+    ]
+  },
+  {
+    "id": "210",
+    "journeyId": "2",
+    "question": "Abstract patterns rely heavily on:",
+    "options": [
+      { "id": "a", "text": "Realism" },
+      { "id": "b", "text": "Repetition and variation" },
+      { "id": "c", "text": "Random noise" },
+      { "id": "d", "text": "Written words" }
+    ]
+  },
+  {
+    "id": "301",
+    "journeyId": "3",
+    "question": "Select the antonym for 'Ephemeral':",
+    "options": [
+      { "id": "a", "text": "Fleeting" },
+      { "id": "b", "text": "Eternal" },
+      { "id": "c", "text": "Brief" },
+      { "id": "d", "text": "Transient" }
+    ]
+  },
+  {
+    "id": "302",
+    "journeyId": "3",
+    "question": "An 'oxymoron' is a figure of speech that:",
+    "options": [
+      { "id": "a", "text": "Exaggerates a point" },
+      { "id": "b", "text": "Combines contradictory terms" },
+      { "id": "c", "text": "Repeats vowel sounds" },
+      { "id": "d", "text": "Uses like or as" }
+    ]
+  },
+  {
+    "id": "303",
+    "journeyId": "3",
+    "question": "Identify the word that fits: The ____ silence was unnerving.",
+    "options": [
+      { "id": "a", "text": "Deafening" },
+      { "id": "b", "text": "Loud" },
+      { "id": "c", "text": "Orange" },
+      { "id": "d", "text": "Fast" }
+    ]
+  },
+  {
+    "id": "304",
+    "journeyId": "3",
+    "question": "Etymology is the study of:",
+    "options": [
+      { "id": "a", "text": "Insects" },
+      { "id": "b", "text": "Word origins" },
+      { "id": "c", "text": "Maps" },
+      { "id": "d", "text": "Stars" }
+    ]
+  },
+  {
+    "id": "305",
+    "journeyId": "3",
+    "question": "Which of these is a palindrome?",
+    "options": [
+      { "id": "a", "text": "Mountain" },
+      { "id": "b", "text": "Level" },
+      { "id": "c", "text": "Journey" },
+      { "id": "d", "text": "Ascent" }
+    ]
+  },
+  {
+    "id": "306",
+    "journeyId": "3",
+    "question": "A 'verbose' explanation is:",
+    "options": [
+      { "id": "a", "text": "Concise" },
+      { "id": "b", "text": "Wordy" },
+      { "id": "c", "text": "Silent" },
+      { "id": "d", "text": "Visual" }
+    ]
+  },
+  {
+    "id": "307",
+    "journeyId": "3",
+    "question": "Complete the analogy: Book is to Chapter as Journey is to...",
+    "options": [
+      { "id": "a", "text": "Map" },
+      { "id": "b", "text": "Desitnation" },
+      { "id": "c", "text": "Leg of the trip" },
+      { "id": "d", "text": "Vehicle" }
+    ]
+  },
+  {
+    "id": "308",
+    "journeyId": "3",
+    "question": "The term 'Ubiquitous' means:",
+    "options": [
+      { "id": "a", "text": "Rare" },
+      { "id": "b", "text": "Found everywhere" },
+      { "id": "c", "text": "Dangerous" },
+      { "id": "d", "text": "Hidden" }
+    ]
+  },
+  {
+    "id": "309",
+    "journeyId": "3",
+    "question": "Which sentence uses the active voice?",
+    "options": [
+      { "id": "a", "text": "The mountain was climbed by the team." },
+      { "id": "b", "text": "The team climbed the mountain." },
+      { "id": "c", "text": "Mistakes were made." },
+      { "id": "d", "text": "The trail is being followed." }
+    ]
+  },
+  {
+    "id": "310",
+    "journeyId": "3",
+    "question": "A 'didactic' story is intended to:",
+    "options": [
+      { "id": "a", "text": "Entertain only" },
+      { "id": "b", "text": "Teach a lesson" },
+      { "id": "c", "text": "Confuse the reader" },
+      { "id": "d", "text": "Scare the reader" }
+    ]
+  }
+]
