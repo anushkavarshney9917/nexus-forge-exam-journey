@@ -534,6 +534,8 @@ Password: admin123
 
 ## 📸 Screenshots
 
+![Exam Journey Screenshot](./screenshot/screenshot-2026-03-01-12-18-18.png)
+
 ### Student Experience
 
 **1. Login Page**
