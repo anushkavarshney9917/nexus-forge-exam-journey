@@ -3,9 +3,25 @@ import { getJourneys } from "@/lib/data";
 import { auth } from "@/auth";
 import { db } from "@/lib/db";
 import { JourneyCard } from "@/components/JourneyCard";
+import journeysData from "@/data/journeys.json";
+
+type JourneyListItem = {
+  id: string;
+  title: string;
+  description: string;
+  difficulty: string;
+  duration: string;
+  totalQuestions: number;
+  prerequisiteId: string | null;
+  minScoreToUnlock: number;
+};
 
 export default async function AtlasPage() {
-  const journeys = await getJourneys();
+  const hasDatabaseUrl = Boolean(process.env.DATABASE_URL);
+
+  const journeys: JourneyListItem[] = hasDatabaseUrl
+    ? await getJourneys()
+    : journeysData;
   const session = await auth();
 
   // Fetch active session if user is logged in
@@ -19,7 +35,7 @@ export default async function AtlasPage() {
     journey: { id: string; prerequisiteId: string | null };
   }> = [];
 
-  if (session?.user?.email) {
+  if (hasDatabaseUrl && session?.user?.email) {
     const user = await db.user.findUnique({
       where: { email: session.user.email },
       include: {
